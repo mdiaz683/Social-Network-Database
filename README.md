@@ -4,7 +4,8 @@ This project was developed as part of the **Data Engineering** course and focuse
 
 The main objective was to transform a denormalized dataset—initially containing mixed user, post, and reaction data—into a well-structured, normalized relational database. The final model supports key relationships and constraints while ensuring data integrity and consistency.
 
+![Logical Schema](logical_schema.png)
 
 ## Documentation
-Detailed documentation of the design process, SQL code, and implementation decisions is available in the report file: _project_report_.
+Detailed documentation of the design process, SQL code, and implementation decisions is available in the report file: _relational_db_report_.
 
